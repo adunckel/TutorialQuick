@@ -1,0 +1,14 @@
+.container {
+	width: auto; 
+	height: auto; 
+	margin: 0; 
+	background: white; 
+	top: 0; 
+	left: 0; 
+	position: absolute; 
+	}
+.img1 {
+  display: block;
+  height: auto;
+  width: 100%;
+ }
